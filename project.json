@@ -1,0 +1,14 @@
+{
+  "name": "Process to find Fraud Detection using ABN",
+  "description": "Process to find Fraud Detection using ABN",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6810.30549",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
